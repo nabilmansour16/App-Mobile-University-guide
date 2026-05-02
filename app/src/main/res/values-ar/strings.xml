@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دليل جامعة بومرداس</string>
+    <string name="university_full_name">جامعة أمحمد بوقرة بومرداس</string>
+
+    <!-- Home screen -->
+    <string name="welcome_title">مرحباً بكم في دليل جامعة بومرداس</string>
+    <string name="university_description">
+        جامعة بومرداس (UMBB) من أبرز المؤسسات الأكاديمية في الجزائر، تأسست عام 1981.
+        تضم آلاف الطلاب في أربع كليات رئيسية تشمل العلوم الطبيعية والهندسة
+        والاقتصاد والقانون، وتسعى إلى تعزيز البحث العلمي وخدمة التنمية الوطنية.
+    </string>
+    <string name="btn_explore">استكشف الجامعة</string>
+    <string name="logo_desc">شعار الجامعة</string>
+
+    <!-- Stats -->
+    <string name="stat_faculties">كليات</string>
+    <string name="stat_departments">أقسام</string>
+    <string name="stat_founded">تأسست</string>
+
+    <!-- Faculty list -->
+    <string name="faculties_title">الكليات</string>
+    <string name="faculties_subtitle">استكشف كليات جامعة بومرداس</string>
+
+    <!-- Detail screens -->
+    <string name="contact_actions">التواصل والإجراءات</string>
+    <string name="departments_label">الأقسام</string>
+    <string name="specialties_label">التخصصات</string>
+
+    <!-- Buttons -->
+    <string name="btn_call">اتصال</string>
+    <string name="btn_email">بريد</string>
+    <string name="btn_sms">رسالة</string>
+    <string name="btn_locate">موقع</string>
+
+    <!-- Intents -->
+    <string name="send_email">إرسال بريد عبر…</string>
+    <string name="sms_default_body">السلام عليكم، أتواصل معكم بخصوص جامعة بومرداس.</string>
+
+    <!-- Search -->
+    <string name="search_title">بحث</string>
+    <string name="search_hint">ابحث في الكليات والأقسام…</string>
+    <string name="search_results_label">النتائج</string>
+    <string name="search_type_faculty">كلية</string>
+    <string name="search_type_department">قسم</string>
+
+    <!-- Menu -->
+    <string name="menu_search">بحث</string>
+    <string name="menu_lang_ar">عربي</string>
+    <string name="menu_lang_en">English</string>
+</resources>

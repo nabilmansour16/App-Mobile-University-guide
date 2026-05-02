@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UMBB MobGuide</string>
+    <string name="university_full_name">Université M\'hamed Bougara de Boumerdès</string>
+
+    <!-- Home screen -->
+    <string name="welcome_title">Welcome to UMBB MobGuide</string>
+    <string name="university_description">
+        The University of Boumerdès (UMBB) is one of Algeria\'s leading academic institutions,
+        founded in 1981. It hosts thousands of students across four major faculties spanning
+        natural sciences, engineering, economics, and law — fostering research and innovation
+        for the development of Algeria.
+    </string>
+    <string name="btn_explore">Explore University</string>
+    <string name="logo_desc">UMBB Logo</string>
+
+    <!-- Stats -->
+    <string name="stat_faculties">Faculties</string>
+    <string name="stat_departments">Departments</string>
+    <string name="stat_founded">Founded</string>
+
+    <!-- Faculty list -->
+    <string name="faculties_title">Faculties</string>
+    <string name="faculties_subtitle">Explore UMBB\'s academic faculties</string>
+
+    <!-- Detail screens -->
+    <string name="contact_actions">Contact &amp; Actions</string>
+    <string name="departments_label">Departments</string>
+    <string name="specialties_label">Specialties</string>
+
+    <!-- Buttons -->
+    <string name="btn_call">Call</string>
+    <string name="btn_email">Email</string>
+    <string name="btn_sms">SMS</string>
+    <string name="btn_locate">Locate</string>
+
+    <!-- Intents -->
+    <string name="send_email">Send email via…</string>
+    <string name="sms_default_body">Hello, I am contacting you regarding UMBB.</string>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search faculties and departments…</string>
+    <string name="search_results_label">RESULTS</string>
+    <string name="search_type_faculty">Faculty</string>
+    <string name="search_type_department">Department</string>
+
+    <!-- Menu -->
+    <string name="menu_search">Search</string>
+    <string name="menu_lang_ar">عربي</string>
+    <string name="menu_lang_en">English</string>
+</resources>

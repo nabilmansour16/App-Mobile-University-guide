@@ -1,0 +1,11 @@
+# Add build outputs to gitignore
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+captures/
+.DS_Store
+
+# Ignore gradle wrapper jar (binary)
+gradle/wrapper/gradle-wrapper.jar

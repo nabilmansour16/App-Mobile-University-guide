@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1757</color>
+    <color name="primary_light">#3949AB</color>
+
+    <!-- Accent -->
+    <color name="accent">#FFC107</color>
+    <color name="accent_dark">#FFD54F</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F5F6FA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- UI chrome -->
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Status bar -->
+    <color name="statusBarColor">#0D1757</color>
+</resources>

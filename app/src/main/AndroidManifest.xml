@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.umbb.mobguide">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_umbb_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_umbb_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UMBBMobGuide">
+
+        <!-- Main / Launcher -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Faculty list -->
+        <activity
+            android:name=".FacultyListActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Faculty detail -->
+        <activity
+            android:name=".FacultyDetailActivity"
+            android:exported="false"
+            android:parentActivityName=".FacultyListActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Department detail -->
+        <activity
+            android:name=".DepartmentDetailActivity"
+            android:exported="false"
+            android:parentActivityName=".FacultyDetailActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- Search -->
+        <activity
+            android:name=".SearchActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+    </application>
+</manifest>

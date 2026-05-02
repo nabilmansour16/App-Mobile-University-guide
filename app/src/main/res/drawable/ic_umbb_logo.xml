@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Shield background -->
+    <path android:fillColor="#FFC107"
+        android:pathData="M32,4 L8,14 L8,30 C8,44 18,56 32,60 C46,56 56,44 56,30 L56,14 Z"/>
+    <!-- Inner shield -->
+    <path android:fillColor="#1A237E"
+        android:pathData="M32,10 L13,19 L13,30 C13,41 21,51 32,55 C43,51 51,41 51,30 L51,19 Z"/>
+    <!-- Book icon in center -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M24,22 h16 v3 h-16 z
+                          M24,28 h16 v3 h-16 z
+                          M24,34 h10 v3 h-10 z
+                          M22,20 v18 h20 v-18 z
+                          M22,20 L22,38 L42,38 L42,20 Z"/>
+    <!-- Open book shape -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M20,20 C20,20 24,19 32,19 C40,19 44,20 44,20 L44,40 C44,40 40,39 32,39 C24,39 20,40 20,40 Z"/>
+    <path android:fillColor="#1A237E"
+        android:pathData="M31,19 L31,40 M33,19 L33,40"
+        android:strokeColor="#1A237E"
+        android:strokeWidth="2"/>
+    <!-- Stars on top -->
+    <path android:fillColor="#FFC107"
+        android:pathData="M32,8 L33.2,11.6 L37,11.6 L34,13.8 L35.2,17.4 L32,15.2 L28.8,17.4 L30,13.8 L27,11.6 L30.8,11.6 Z"/>
+</vector>
