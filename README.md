@@ -49,12 +49,13 @@ This Android application provides students, staff, and visitors with a centraliz
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here to showcase the beautiful UI!)*
+| Welcome Screen | Faculties List | Faculty Details |
+|:---:|:---:|:---:|
+| <img src="screenshots/screenshot5.jpg" width="250" alt="Welcome Screen"/> | <img src="screenshots/screenshot4.jpg" width="250" alt="Faculties List"/> | <img src="screenshots/screenshot3.jpg" width="250" alt="Faculty Details"/> |
 
-- **Welcome Screen** (English & Arabic)
-- **Faculty List**
-- **Department Details**
-- **Search Functionality**
+| Department Details | Search Functionality |
+|:---:|:---:|
+| <img src="screenshots/screenshot2.jpg" width="250" alt="Department Details"/> | <img src="screenshots/screenshot1.jpg" width="250" alt="Search Functionality"/> |
 
 ---
 
